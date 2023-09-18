@@ -17,7 +17,7 @@ This repository contains the source code for a fullstack web application develop
 2. **Set Up Python Virtual Environment:**
 ```bash
 python -m venv env
-source env/bin/activate  # Pe Windows: env\Scripts\activate
+source env/bin/activate  # On Windows: env\Scripts\activate
 ```
 3. **Install Backend Dependencies:**
 ```bash
