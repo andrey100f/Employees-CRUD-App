@@ -25,7 +25,7 @@ cd DjangoAPI
 pip install -r requirements.txt
 ```
 4. **Configure Environment Variables:** Edit the `settings.py` file in the `DjangoAPI` directory and update the following variables with your PostgreSQL database details:
-```bash
+```python
 NAME=database name
 USERNAME=postgres username
 PASSWORD=postgres password
